@@ -73,10 +73,10 @@ http://127.0.0.1:5173/converter
 
 ## 🎥 Video Demos
 📌 **API & UI Implementation Demo:**  
-🔗 [Add Your Video Link Here]  
+🔗 https://github.com/user-attachments/assets/84940fe1-433f-4ff9-ab5f-1fa53980618e 
 
 📌 **Frontend UI Interaction Demo:**  
-🔗 [Add Your Video Link Here]  
+🔗 https://github.com/user-attachments/assets/ffbf505d-7a9e-4e8e-8f14-2ca3bf27757a 
 
 ---
 
